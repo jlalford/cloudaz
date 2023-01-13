@@ -2,7 +2,7 @@ title = "CloudAZ Cloud services in Arizona"
 baseURL = "https://www.cloudaz.com"
 languageCode = "en-us"
 theme = ["ananke"]
-resourceDir = "../resources"
+resourceDir = "resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
