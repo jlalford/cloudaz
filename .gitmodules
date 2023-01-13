@@ -1,0 +1,3 @@
+[submodule "cloudaz/themes/ananke"]
+	path = cloudaz/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
